@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @cfdphd
-- 👀 I’m interested in transonic aeroservoelasticity
-- 🌱 I’m currently learning data science courses on EdX to take all the massive aerodynamics data and use it for design in aeroservoelasticity
-- 💞️ I’m looking to collaborate on course creation on Teachable
-- 📫 How to reach me cfdphd@outlook.com
+- 🛩️ Transonic aeroelasticity researcher & engineer  
+- 🧠 Building a **mental wellness planner** web app (Django, JavaScript, PostgreSQL) — active codebase is private while it becomes a product  
+- 🧘‍♀️ Fitness and pain-management coach for women 50+, blending movement science with yoga and meditation  
+- 💻 Currently studying full‑stack web development (CS50x/CS50W, Django, React) and data science for large‑scale aerodynamics datasets  
+- 📚 Interests: Hindu philosophy & Sanskrit, numerical methods, human‑centered software design  
+- 📫 Reach me at cfdphd@outlook.com or via LinkedIn (link in profile)
 
-<!---
-cfdphd/cfdphd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!--
+This repository is special: its README.md appears on my GitHub profile.
+-->
